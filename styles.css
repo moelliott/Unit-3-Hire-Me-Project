@@ -1,0 +1,40 @@
+.BTS{
+	width: 360px;
+    height: 220px;
+}
+.Dyett{
+	width: 200px;
+    height: 200px;
+    border-style: dotted;
+    border-color: #000000;
+    border-width: 6px;
+}
+.headphones{
+    width: 200px;
+    height: 200px;
+}
+h2:hover{
+    background-color:  #000000;
+}
+.Mia:hover{
+	font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    text-align: center;
+    background-color: #000000;
+}
+.Queen{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+.Me{
+    font-family: 'Ubuntu', sans-serif;
+    color: #ffffff;
+}
+.MP{
+	font-family: 'Lora', serif;
+    color: #ffffff;
+}
+body{
+	background-image: url("https://media2.giphy.com/media/JNyPvvOBSneKxzdj7h/giphy.gif");
+    background-color: #993399;
+}
